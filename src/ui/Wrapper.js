@@ -3,13 +3,13 @@ import styled from "styled-components";
 const Wrapper = styled.div`
 
 display: grid;
-grid-gap: 50px 100px;
+grid-gap: 50px 10px;
 grid-template-columns: auto auto;
 background-color: white;
 padding: 10px;
-width:350px;
+width:230px;
 height:350px;
-margin-left:30%;
+// margin-left:30%;
 margin-top:20px;
 text-align: center;
 border:solid black 4px;
